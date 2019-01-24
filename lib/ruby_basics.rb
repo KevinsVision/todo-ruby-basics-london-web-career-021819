@@ -10,7 +10,7 @@ def argue(ruby)
   ruby
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
